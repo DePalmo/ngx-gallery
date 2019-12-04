@@ -8,6 +8,8 @@ export interface LightboxConfig {
   hasBackdrop?: boolean;
   keyboardShortcuts?: boolean;
   closeIcon?: string;
+  counterClockwiseIcon?: string;
+  clockwiseIcon?: string;
   role?: string;
   ariaLabelledBy?: string;
   ariaLabel?: string;

@@ -53,6 +53,7 @@
     "@fortawesome/fontawesome-svg-core": "^1.2.12",
     "@fortawesome/free-brands-svg-icons": "^5.3.1",
     "@fortawesome/free-solid-svg-icons": "^5.3.1",
+    "@ngx-gallery/core": "^4.0.3",
     "@ngx-progressbar/core": "^5.3.1",
     "@ngx-progressbar/http": "^5.3.1",
     "@ngx-progressbar/router": "^5.3.1",
